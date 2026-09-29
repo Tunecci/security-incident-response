@@ -1,0 +1,12 @@
+2026-09-28 08:41:12 INFO AUTH user=john.smith source_ip=192.168.1.45 action=login status=success
+2026-09-28 09:02:18 INFO AUTH user=jane.doe source_ip=192.168.1.52 action=login status=success
+2026-09-28 09:14:03 WARN AUTH user=john.smith source_ip=185.220.101.14 action=login status=failed
+2026-09-28 09:14:08 WARN AUTH user=john.smith source_ip=185.220.101.14 action=login status=failed
+2026-09-28 09:14:15 WARN AUTH user=john.smith source_ip=185.220.101.14 action=login status=failed
+2026-09-28 09:14:23 WARN AUTH user=john.smith source_ip=185.220.101.14 action=login status=failed
+2026-09-28 09:14:31 WARN AUTH user=john.smith source_ip=185.220.101.14 action=login status=failed
+2026-09-28 09:15:02 INFO AUTH user=john.smith source_ip=185.220.101.14 action=login status=success
+2026-09-28 09:16:44 INFO AUTH user=john.smith source_ip=185.220.101.14 action=password_change status=success
+2026-09-28 09:18:21 WARN FILE user=john.smith source_ip=185.220.101.14 action=download file=customer_records.csv status=success
+2026-09-28 09:21:07 WARN AUTH user=john.smith source_ip=185.220.101.14 action=login status=success
+2026-09-28 09:25:42 INFO AUTH user=john.smith source_ip=192.168.1.45 action=login status=failed
